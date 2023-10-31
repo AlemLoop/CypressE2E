@@ -111,4 +111,4 @@ class cartPage {
    
 }
 
-export default cartPage;
+export default cartPage;g
